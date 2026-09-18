@@ -1,11 +1,7 @@
 # Tres ideas de proyecto
 
-> Instrucción: sustituye lo que está entre corchetes y borra las líneas que empiezan con
-> "Instrucción:". Las tres ideas son tuyas, no las de tu equipo. En la siguiente sesión el
-> equipo decidirá con cuál se queda.
-
-**Autor:** [Tu nombre]
-**Fecha:** [ ]
+**Autor:** José Leonardo Díaz Castro
+**Fecha:** 17 de Septiembre del 2026
 
 ---
 

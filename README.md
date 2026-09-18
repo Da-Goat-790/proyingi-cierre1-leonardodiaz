@@ -30,16 +30,12 @@
 
 ## Cómo voy en el curso
 
-- [ ] [Algo que ya logré]
-- [ ] [Algo que todavía no me sale]
-- [ ] [Algo que quiero aprender en lo que queda del semestre]
+- [x] [Almacenar contenido en el github ]
+- [ ] [Recordar los comandos necesarios, en especial para clonar el git ]
+- [ ] [Nuevas maneras de utilizar lo aprendido, relacionadas a mis intereses ]
 
 ---
 
 ## Declaración de uso de IA
 
-> Instrucción: obligatoria en los tres archivos. Si no usaste IA, escríbelo explícitamente.
-
-- **Herramienta utilizada:** [nombre y versión, o "No se utilizó IA generativa en esta entrega"]
-- **Qué le pedí:** [ ]
-- **Qué modifiqué o rechacé de su respuesta, y por qué:** [ ]
+- **Herramienta utilizada:** No se utilizó IA generativa en esta entrega
