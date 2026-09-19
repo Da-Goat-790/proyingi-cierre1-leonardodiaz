@@ -16,49 +16,48 @@ Una idea es viable para esta materia si cumple los cuatro criterios:
 
 ---
 
-## Idea 1: [Nombre de la idea]
+## Idea 1: Semáforo de ruido
 
-**Problema.** [Dos o tres líneas. Qué está mal hoy, sin solución todavía.]
+**Problema.** Durante las horas de estudio, pueden haber varios tipos de ruidos, desde ruidos tolerables hasta ser demasiado molestos, o incluso puede existir un punto medio
 
-**A quién le pasa.** [Quién sufre el problema, de la forma más específica posible.]
+**A quién le pasa.** Estudiantes
 
-**Dónde lo he visto.** [Lugar y situación concretos que tú viste, no algo que leíste. Esta
-sección es obligatoria y no se puede resolver con una búsqueda.]
+**Dónde lo he visto.** Zonas de estudio, areas comunes
 
 **Cómo funcionaría.**
-- Qué mide o detecta (sensor): [ ]
-- Qué hace con eso (actuador, aviso, pantalla): [ ]
-- Qué pieza habría que fabricar: [ ]
+- Qué mide o detecta (sensor): Los decibels del ruido ambiental
+- Qué hace con eso (actuador, aviso, pantalla): Mostrar una luz verde si es tolerable, mostrar una luz amarilla si el ruido es ligeramente alto y rojo si es mejor buscar otro lugar para estudiar
+- Qué pieza habría que fabricar: Un cuerpo en forma de semáforo, con espacio para leds de colores
 
 ---
 
-## Idea 2: [Nombre de la idea]
+## Idea 2: Base de hidratación
 
-**Problema.** [ ]
+**Problema.** Algunas veces una persona se le puede olvidar hidratarse por cierto tiempo, ya sea por falta de tiempo o estar muy concentrado en alguna actividad 
 
-**A quién le pasa.** [ ]
+**A quién le pasa.** Estudiantes
 
-**Dónde lo he visto.** [ ]
+**Dónde lo he visto.** Areas de estudio
 
 **Cómo funcionaría.**
-- Qué mide o detecta (sensor): [ ]
-- Qué hace con eso (actuador, aviso, pantalla): [ ]
-- Qué pieza habría que fabricar: [ ]
+- Qué mide o detecta (sensor): Medirá por cuanto tiempo el termo no ha sido levantado 
+- Qué hace con eso (actuador, aviso, pantalla): En 15 minutos, la base prendera un led, a pasar otros 10 minutos, este empezara a parpadear y al pasar 5 minutos más la base emerita un pitido
+- Qué pieza habría que fabricar: Una base, co una pequeña bocina , un led y un microcontrolador
 
 ---
 
-## Idea 3: [Nombre de la idea]
+## Idea 3: Lampara automática de closet
 
-**Problema.** [ ]
+**Problema.** Al compartir un cuarto, es complicado prepararse para clases en la mañana, las luces del cuarto pueden interrumpir el sueño del otro compañero
 
-**A quién le pasa.** [ ]
+**A quién le pasa.** Compañeros de cuarto
 
-**Dónde lo he visto.** [ ]
+**Dónde lo he visto.** Villa Ibero
 
 **Cómo funcionaría.**
-- Qué mide o detecta (sensor): [ ]
-- Qué hace con eso (actuador, aviso, pantalla): [ ]
-- Qué pieza habría que fabricar: [ ]
+- Qué mide o detecta (sensor): Medirá si la puerta ha sido abierta, otro sensor medirá la bacteria del dispositivo
+- Qué hace con eso (actuador, aviso, pantalla): Si la puerta esta abierta prendera una luz cálida con una intensidad acceptable, si la puerta esta cerrada se apagara 
+- Qué pieza habría que fabricar: Una base para la lampara y los circuitos
 
 ---
 
@@ -68,27 +67,24 @@ sección es obligatoria y no se puede resolver con una búsqueda.]
 > descalificada: lo que se evalúa es que reconozcas el problema, no que las tres ideas
 > salgan perfectas.
 
-| Criterio | Idea 1 | Idea 2 | Idea 3 |
-|---|---|---|---|
-| Problema concreto de mi entorno | | | |
-| Parte física fabricable | | | |
-| Sensor o actuador | | | |
-| Construible en ocho sesiones por principiantes | | | |
-| Qué tan seguro estoy de lo anterior (alto / medio / bajo) | | | |
+| Criterio                                                  | Idea 1 | Idea 2 | Idea 3 |
+| --------------------------------------------------------- | ------ | ------ | ------ |
+| Problema concreto de mi entorno                           | Sí     | Sí     | Sí     |
+| Parte física fabricable                                   | Sí     | Sí     | Sí     |
+| Sensor o actuador                                         | Sí     | Sí     | Sí     |
+| Construible en ocho sesiones por principiantes            | Sí     | Sí     | Sí     |
+| Qué tan seguro estoy de lo anterior (alto / medio / bajo) | alto   | medio  | alto   |
 
 ## Mi elección
 
-**Idea elegida:** [ ]
+**Idea elegida:** Lampara automática de closet 
 
-**Por qué.** [Tres o cuatro líneas, apoyadas en la tabla.]
+**Por qué.** Es uno de los problemas más aparentes en mi entorno, al ser un estudiante foráneo comparto habitación con otro estudiante de otra carrera, nuestros horarios son muy diferentes, mientras mi primera clase siempre es en la mañana, el se suele despertar más tarde para sus clases 
 
-**Qué todavía no sé.** [Lo que tendrías que averiguar o probar antes de comprometerte.
-Esta sección vale: reconocer la incertidumbre es parte del trabajo de ingeniería.]
-
+ **Qué todavía no sé.** Las piezas correctas que debería de utilizar, como tener una luz con una intensidad  especifica
+ 
 ---
 
 ## Declaración de uso de IA
 
-- **Herramienta utilizada:** [nombre y versión, o "No se utilizó IA generativa en esta entrega"]
-- **Qué le pedí:** [ ]
-- **Qué modifiqué o rechacé de su respuesta, y por qué:** [ ]
+- **Herramienta utilizada:** No se utilizó IA generativa en esta entrega

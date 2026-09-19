@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "ideas-proyecto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "ideas-proyecto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "ideas-proyecto.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -219,7 +219,7 @@
   "active": "1a558467b3c84133",
   "lastOpenFiles": [
     "ideas-proyecto.md",
-    "README.md",
-    "investigacion.md"
+    "investigacion.md",
+    "README.md"
   ]
 }
