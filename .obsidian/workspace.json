@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -217,10 +217,10 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "143fac37d129565f",
+  "active": "ae15563b72da597a",
   "lastOpenFiles": [
-    "README.md",
     "ideas-proyecto.md",
+    "README.md",
     "investigacion.md"
   ]
 }

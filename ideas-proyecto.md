@@ -1,7 +1,7 @@
 # Tres ideas de proyecto
 
 **Autor:** José Leonardo Díaz Castro
-**Fecha:** 17 de Septiembre del 2026
+**Fecha:** 19 de Septiembre del 2026
 
 ---
 
@@ -74,12 +74,11 @@ Una idea es viable para esta materia si cumple los cuatro criterios:
 
 ## Mi elección
 
-**Idea elegida:** Lampara automática de closet 
+**Idea elegida:** Semáforo de ruido
 
-**Por qué.** Es uno de los problemas más aparentes en mi entorno, al ser un estudiante foráneo comparto habitación con otro estudiante de otra carrera, nuestros horarios son muy diferentes, mientras mi primera clase siempre es en la mañana, el se suele despertar más tarde para sus clases 
+**Por qué.**  Esta idea parase ser abundante en forma de sitios web, mientras que yo espero crear una forma física y portátil de este, con el objetivo de ayudar a los estudiantes a elegir de mejor manera su lugar de estudio o de relajación 
 
- **Qué todavía no sé.** Las piezas correctas que debería de utilizar, como tener una luz con una intensidad  especifica
- 
+ **Qué todavía no sé.** Como lograr que un aparato pueda medir los decibeles, que tipo de componentes serian los más aptos para que este dispositivo sea portatil
 ---
 
 ## Declaración de uso de IA
