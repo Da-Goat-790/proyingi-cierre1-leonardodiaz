@@ -25,7 +25,7 @@ Una idea es viable para esta materia si cumple los cuatro criterios:
 **Dónde lo he visto.** Zonas de estudio, areas comunes
 
 **Cómo funcionaría.**
-- Qué mide o detecta (sensor): Los decibels del ruido ambiental
+- Qué mide o detecta (sensor): Los decibeles del ruido ambiental
 - Qué hace con eso (actuador, aviso, pantalla): Mostrar una luz verde si es tolerable, mostrar una luz amarilla si el ruido es ligeramente alto y rojo si es mejor buscar otro lugar para estudiar
 - Qué pieza habría que fabricar: Un cuerpo en forma de semáforo, con espacio para leds de colores
 
@@ -63,9 +63,6 @@ Una idea es viable para esta materia si cumple los cuatro criterios:
 
 ## Tabla de viabilidad
 
-> Instrucción: escribe Sí, No o Parcial en cada celda. Una idea con un "No" no está
-> descalificada: lo que se evalúa es que reconozcas el problema, no que las tres ideas
-> salgan perfectas.
 
 | Criterio                                                  | Idea 1 | Idea 2 | Idea 3 |
 | --------------------------------------------------------- | ------ | ------ | ------ |
